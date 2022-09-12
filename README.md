@@ -70,3 +70,4 @@ Feel free to reach out if you're looking for a developer, have a question or wan
 You can also follow me on:
 
 🏃‍♂️ my [Linkedin Profile](https://www.linkedin.com/in/in%C3%AAs-cayolla/)
+or through ines.cayolla@gmail.com
