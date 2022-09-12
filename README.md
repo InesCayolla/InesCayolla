@@ -8,7 +8,7 @@ Now I’m looking forward to working alongside developers and designers and broa
 
 ## How I can add value within your company 💪 ##
 
-### Agile Mindset 🏁
+
 Throughout my professional experience, as an architect, I've coordinated teams and complex projects at an urban scale.
 
 ### Full Stack 🌈
