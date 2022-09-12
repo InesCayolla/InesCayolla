@@ -53,6 +53,8 @@ So far, these are the languages and frameworks i've been working with:
   <img src="html5.svg" width="30" height="30">
   <img src="javascript.svg" width="40" height="40">
   <img src="postgresql.svg" width="40" height="40">
+  <img src="bootstrap-original.svg" width="40" height="40">
+    
 </p>
 
 
