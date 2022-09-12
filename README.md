@@ -36,7 +36,7 @@ classify me as a fast and passionate learner. But it was foremost through mentor
 
 ## What I've done so far  🔨
 
-📱 [AIRBNB Clone] (https://airbnb-tantovanwijhe.herokuapp.com/)
+📱 [AIRBNB Clone](https://airbnb-tantovanwijhe.herokuapp.com/)
 
 📱 [ALLIVU](https://allivu.pro/)- A web only mobile app that enable to search, explore and pay for service vendors all-in-one place.
 
