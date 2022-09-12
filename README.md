@@ -1,6 +1,7 @@
-**Hello, World! 👋 I'm Ines.**                                                                                                                                              
+**Hello, World! 👋 I'm Inês.**
 
-I'm an architect who has recently graduated from the [Web Development Bootcamp at Le Wagon] (https://www.lewagon.com/web-development-course/full-time) in Amsterdam.
+
+I'm an architect who has recently graduated from the [Web Development Bootcamp at Le Wagon](https://www.lewagon.com/web-development-course/full-time) in Amsterdam.
 This experience gave me the opportunity to create apps that are fun to use and are written in code that's maintainable and easy to read.
 
 Now I’m looking forward to working alongside developers and designers and broadening my knowledge on web development.
@@ -38,7 +39,9 @@ Yet, it was foremost through mentors and teamwork that I’ve grown personally a
 
 **What I've done so far 🔨**
 
-📱 [ALLIVU](https://allivu.pro/)- A web mobile app that enable to search, explore and pay for service vendors all-in-one place.
+📱 [ALLIVU](https://allivu.pro/)- A web only mobile app that enable to search, explore and pay for service vendors all-in-one place.
+
+
 At the moment i'm improving my skills with Linkedin Learning and building my own apps.
 
 
@@ -47,7 +50,9 @@ So far, these are the languages and frameworks i've been working with:
 
 
 
-Let's code together 💗
+**Let's code together** :heavy_check_mark:
+
+
 Feel free to reach out if you're looking for a developer, have a question or want to chat.
 
 You can also follow me on:
