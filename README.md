@@ -43,7 +43,7 @@ classify me as a fast and passionate learner. But it was foremost through mentor
 📱 [ALLIVU](https://allivu.pro/)- A web only mobile app that enable to search, explore and pay for service vendors all-in-one place.
 
 
-At the moment i'm improving my skills with Linkedin Learning and building my own apps.
+At the moment i'm improving my skills learning Javascript and React and building my own apps.
 
 
 So far, these are the languages and frameworks i've been working with:
