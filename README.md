@@ -52,14 +52,14 @@ So far, these are the languages and frameworks i've been working with:
   <img src="rubyonrails.svg" width="30" height="30">
   <img src="ruby.svg" width="30" height="30">
   <img src="css3.svg" width="30" height="30">
+  <img src="javascript.svg" width="40" height="40">
+  <img src="html5.svg" width="30" height="30">
+  </p><p>
   <img src="github.svg" width="30" height="30">
   <img src="heroku.svg" width="30" height="30">
-  <img src="html5.svg" width="30" height="30">
-  <img src="javascript.svg" width="40" height="40">
   <img src="postgresql.svg" width="40" height="40">
   <img src="bootstrap-original.svg" width="40" height="40">
-    
-</p>
+ </p>
 
 
 ## Let's code together :heavy_check_mark:
